@@ -6,18 +6,13 @@ We'll be using data from https://world.openfoodfacts.org/ to practice running pe
 
 To get set up for running the Day 1 tutorial, please add the following packages:
 
-JLD
-
-Eirene
-
-Combinatorics
-
-SparseArrays
-
-Plots
-
-LightGraphs
-
+JLD  
+Plotly  
+Eirene  
+Combinatorics  
+SparseArrays  
+Plots  
+LightGraphs  
 GraphPlot
 
 To install packages, either switch to the package handeler in julia with ']' and then type 'add PackageName' or load in the Pkg package
