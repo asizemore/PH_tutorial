@@ -19,6 +19,8 @@ To install packages, either switch to the package handeler in julia with ']' and
 handler with 'using Pkg' and then type 'Pkg.add("PackageName")' to add any package.
 
 
+# Day 2 tutorial
+We'll use data from https://link.springer.com/article/10.1007/s10827-017-0672-6 to practice running persistent homology on actual brain data. These data are also available on the UPenn Complex Systems lab website. 
 
 # Further reading and helpful links
 Chad Giusti's topology in neuroscience webpage http://www.chadgiusti.com/bib.html  
@@ -29,6 +31,8 @@ Importance of the whole: topological data analysis for the network neuroscientis
 
 
 
-Last updated 06.26.19
+
+
+Last updated 07.02.19
 
 
